@@ -4,3 +4,15 @@ first_550/lake_geometry_ice_phenology.ipynb
 alaska_lakes_ice_probability_timeseries_2019-2023.csv
 training_data.parquet
 rf_ice_model.joblib
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Temp/test files
+test_write.txt
+ch4_export_tasks.csv
+
+# Archive and early exploration
+archive/
+first_550/
