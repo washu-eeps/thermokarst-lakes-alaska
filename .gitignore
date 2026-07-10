@@ -16,3 +16,14 @@ ch4_export_tasks.csv
 # Archive and early exploration
 archive/
 first_550/
+
+# Nguyen additional analyses - baseline data fetched from GCS at runtime
+BedfastFloatingAnalysis/Integrated_Lake_Ice_Regime_Classification.json
+BedfastFloatingAnalysis/engram/
+# regenerated outputs (produced by the notebooks)
+BedfastFloatingAnalysis/averaged_phenology_data.csv
+BedfastFloatingAnalysis/*.png
+NoPhenologyAnalysis/*.png
+# additional-analysis duplicate phenology CSVs (use repo-root copy)
+BedfastFloatingAnalysis/alaska_lakes_ice_phenology_2019-2023.csv
+NoPhenologyAnalysis/alaska_lakes_ice_phenology_2019-2023.csv
