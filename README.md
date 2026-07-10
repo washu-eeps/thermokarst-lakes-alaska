@@ -1,6 +1,6 @@
 # thermokarst-lakes-alaska
 
-[![DOI](https://zenodo.org/badge/1095998398.svg)](https://zenodo.org/badge/latestdoi/1095998398)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21299416.svg)](https://doi.org/10.5281/zenodo.21299416)
 
 Analysis code and processed data for multi-sensor satellite retrieval of lake ice
 phenology across ~31,000 thermokarst lakes on the Alaska North Slope (2019–2023).
