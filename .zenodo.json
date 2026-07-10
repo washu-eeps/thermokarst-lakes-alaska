@@ -1,0 +1,30 @@
+{
+  "title": "Multi-sensor satellite analysis reveals latitudinal and morphometric controls on ice phenology across 31,000 lakes on the Alaska North Slope",
+  "description": "Analysis code (Jupyter notebooks 01-06) and processed ice-phenology data for the study of Sentinel-1 SAR, Sentinel-2 optical, and ERA5-derived lake ice phenology across ~31,000 thermokarst lakes on the Alaska North Slope (2019-2023), including the random-forest ice classifier, transition-based phenology extraction, and the accumulated-degree-day model comparison.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {"name": "Nguyen, Alexander L.", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"},
+    {"name": "Lopez, Cesar G.", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"},
+    {"name": "Melara-Valle, Jennifer", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"},
+    {"name": "Ross, Eliza", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"},
+    {"name": "Bradley, Alexander S.", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"},
+    {"name": "Limbeck, Maggie R.", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"},
+    {"name": "Masteller, Claire C.", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"},
+    {"name": "Michaelides, Roger", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"}
+  ],
+  "keywords": [
+    "thermokarst lakes",
+    "lake ice phenology",
+    "Sentinel-1",
+    "synthetic aperture radar",
+    "Sentinel-2",
+    "ERA5",
+    "Arctic",
+    "permafrost",
+    "Alaska North Slope",
+    "random forest",
+    "remote sensing"
+  ]
+}
