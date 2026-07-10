@@ -5,14 +5,42 @@
   "access_right": "open",
   "license": "cc-by-4.0",
   "creators": [
-    {"name": "Nguyen, Alexander L.", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"},
-    {"name": "Lopez, Cesar G.", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"},
-    {"name": "Melara-Valle, Jennifer", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"},
-    {"name": "Ross, Eliza", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"},
-    {"name": "Bradley, Alexander S.", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"},
-    {"name": "Limbeck, Maggie R.", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"},
-    {"name": "Masteller, Claire C.", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"},
-    {"name": "Michaelides, Roger", "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"}
+    {
+      "name": "Nguyen, Alexander L.",
+      "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"
+    },
+    {
+      "name": "Lopez, Cesar G.",
+      "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"
+    },
+    {
+      "name": "Melara-Valle, Jennifer",
+      "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"
+    },
+    {
+      "name": "Ross, Eliza",
+      "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA"
+    },
+    {
+      "name": "Bradley, Alexander S.",
+      "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA",
+      "orcid": "0000-0002-4044-2802"
+    },
+    {
+      "name": "Limbeck, Maggie R.",
+      "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA",
+      "orcid": "0000-0003-3565-6547"
+    },
+    {
+      "name": "Masteller, Claire C.",
+      "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA",
+      "orcid": "0000-0002-6830-7223"
+    },
+    {
+      "name": "Michaelides, Roger",
+      "affiliation": "Department of Earth, Environmental, and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130, USA",
+      "orcid": "0000-0002-7577-6829"
+    }
   ],
   "keywords": [
     "thermokarst lakes",
