@@ -13,8 +13,8 @@ against latitude and lake morphometry and compared to an accumulated-degree-day 
 Nguyen, A. L.\*, Lopez, C. G.\*, Melara-Valle, J., Ross, E., Bradley, A. S.,
 Limbeck, M. R., Masteller, C. C., and Michaelides, R.:
 *Multi-sensor satellite analysis reveals latitudinal and morphometric controls on ice
-phenology across 31,000 lakes on the Alaska North Slope*
-(manuscript in preparation, 2026). \
+phenology across 31,000 lakes on the Alaska North Slope*,
+The Cryosphere (in preparation), 2026. \
 \*These authors contributed equally.
 
 ## Contents
