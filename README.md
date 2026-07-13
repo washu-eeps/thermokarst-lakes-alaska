@@ -25,12 +25,12 @@ spatial / morphometric analysis and accumulated-degree-day comparison, and the T
 methane companion analysis. Each notebook lists its Python dependencies and reads inputs
 from Google Cloud Storage buckets hosted through Washington University in St. Louis.
 
-Two additional analyses contributed by A. L. Nguyen live in `BedfastFloatingAnalysis/`
-(comparison of the detected phenology against published bedfast/floating ice-regime
-classifications) and `NoPhenologyAnalysis/` (spatial distribution and population
-comparison of lakes with no detected phenology). Their large third-party baseline
-inputs are not stored in this repository; the notebooks download them at runtime from
-the Arctic Data Center (see Data and code availability).
+Two additional analyses live in `BedfastFloatingAnalysis/` (comparison of the detected
+phenology against published bedfast/floating ice-regime classifications) and
+`NoPhenologyAnalysis/` (spatial distribution and population comparison of lakes with no
+detected phenology). Their large third-party baseline inputs are not stored in this
+repository; the notebooks download them at runtime from the Arctic Data Center (see Data
+and code availability).
 
 ## Data and code availability
 
